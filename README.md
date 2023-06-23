@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/M%C3%93VEIS%20CUSTOMIZADOS.png" alt="Demonstração do Projeto" width="100%">
+  <img src="https://i.imgur.com/2vmNSQt.png" alt="Demonstração do Projeto" width="100%">
   </p>
 
   ## 💻 Projeto
